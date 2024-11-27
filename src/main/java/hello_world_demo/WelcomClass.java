@@ -5,6 +5,6 @@ public class WelcomClass {
 		System.out.println(HelloWorld());
 	}
 	public static String HelloWorld() {
-		return "This is student Ayush Reddy, 22BD1A6744";
+		return "hello World";
 	}
 }
